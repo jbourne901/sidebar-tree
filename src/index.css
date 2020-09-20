@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+}
+
+html,body {
+  width: 99%;
+  height: 100%;
+  background-color: rgb(33,33,33);
+  color: white;
+  padding: 0;
+  margin: 4px;
+  overflow: auto;
+}
+
+#root {
+  height: 99%;
+}
