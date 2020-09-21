@@ -1,0 +1,8 @@
+.treeview {
+    padding-left: 0;
+    margin-top: 0;
+    background: rgba(33,33,33, 0.2);
+    list-style: none;
+    height: 100%;
+    overflow: auto;
+}

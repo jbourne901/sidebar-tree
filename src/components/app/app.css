@@ -15,9 +15,8 @@
     flex: 0 0 auto;
     padding: 0px;
     margin: 0px;
-    width: 20%;
+    width: fit-content;
     height: 99%;
-    overflow: auto;
 }
 
 .splitter {

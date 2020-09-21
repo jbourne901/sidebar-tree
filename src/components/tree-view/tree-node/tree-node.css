@@ -1,0 +1,69 @@
+.treenode {
+
+}
+
+.treenode-label {
+    font-size: 15px;
+    font-weight: 300;
+    margin-left: 6px;
+}
+
+.treenode-item {
+    display: flex;
+    align-items: center;
+    margin-top: 8px;
+    margin-left: -24px;
+    cursor: move;
+    border: 1px dotted lightseagreen;
+    padding: 4px;
+    border-radius: 4px;
+    min-width: fit-content;
+}
+
+.treenode-item:hover {
+    background: rgb(66,66,66);    
+    border: 1px dotted;
+}
+
+.treenode-item .MuiSvgIcon-root {
+    color: lightseagreen;
+    border: solid 1px lightseagreen;
+    border-radius: 30px;
+    padding: 4px;
+    
+}
+
+
+.treenode-listitems {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.treenode-listheader {
+    display: block;
+    padding: 0.4em;
+    margin-right: 0;   
+    font-size: 15px; 
+    font-weight: 600;
+    color: rgb(190,190,190);
+}
+
+.treenode-icon {
+    margin-right: 0px;
+    color: lightblue;    
+}
+
+.treenode-icon:hover {
+    color: white;
+}
+
+.treenode-menulabel {
+    margin-left: 10px;
+    cursor: pointer;
+    min-width: fit-content;
+}
+
+.treenode-menulabel:hover {
+    color: white;
+    border-bottom: 1px solid
+}    
